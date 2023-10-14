@@ -19,6 +19,7 @@ nav h1{
 }
 nav ul{
     display: flex;
+    align-items: center;
     margin: 50px 230px;
 }
 nav ul li{
